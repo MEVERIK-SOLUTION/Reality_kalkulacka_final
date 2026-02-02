@@ -1,0 +1,26 @@
+{
+  "name": "reality-kalkulacka-pro",
+  "version": "4.0.0",
+  "description": "Profesionální aplikace pro ocenění nemovitostí",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "reality",
+    "kalkulacka",
+    "oceneni",
+    "nemovitosti",
+    "investice",
+    "odhad"
+  ],
+  "author": "MEVERIK SOLUTION",
+  "license": "MIT",
+  "homepage": "https://github.com/username/reality-kalkulacka-pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/reality-kalkulacka-pro.git"
+  }
+}
